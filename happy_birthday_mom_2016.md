@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Happy Birthday Mom!
 permalink: /mom/
 ---
 
