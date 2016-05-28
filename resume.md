@@ -6,11 +6,6 @@ group: navigation
 ---
 
 # [Anton Vattay](http://github.com/vattay)
-973 420 2766 | <anton.vattay@gmail.com> | <anton@redrook.tech>
-
-3133 West Ox Road
-
-Herndon VA 20171
 
 ## Summary
 
