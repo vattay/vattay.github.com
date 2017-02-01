@@ -15,13 +15,13 @@ group: navigation
 
 ## Interests
 
-- Autonomous Systems
-- Machine Learning
-- Network Security
-
+- Cyptocurrency
+- FinTech
+- GPU Programming
+- Neural Networks
 		
 ## Tools of the Trade
- - Java, Javascript, Ruby, Perl
+ - Java, Javascript, Python, Ruby, Perl, C, C++, CUDA (learning)
  - Elasticsearch, Angular, Ruby On Rails
 			
 ## Experience
@@ -30,71 +30,47 @@ group: navigation
 
 May 2012 - April 2016
 
-- Co-created Segmentation UI and Segmentation Stack
-  - Visual Filtering of Customers into groups.
+- Our team built the amazing "Segmentation Tool", a visual web application for filtering our large base of utility customers into smaller groups for targeted messaging via mail and email. 
+- UI prototyping
+- Angular / Ruby Frontend Work
+- Design; care and feeding of Elasticsearch stack
+- Java / Dropwizard APIs
+- Release Engineering
 
 ### ManTech
 
 Sep. 2010 - May 2012
 
-Contact: TBD : (703) 263-1163
-
-- Created Windows Update Automation system
-    - Reduced update maintenance time by 5 hours / week
-	
+- Wrote a rather esotetic but still actively used (!) staggered windows update system for a DHS information system	
 - Contributed patches to OTRS help desk OSS project
+- MySQL Administration
 
 ### Netuitive
 
 Sep. 2009 - Aug. 2010
 
-Contact: Brian Spindler <bspindler@netuitive.com> : (703) 464-1500
+- Java; Perl
 
-- Scrum Environment
+- VMWare Lab Administration
 
-- Created a plugin export utility
+- SAN Administration (NetAPP)
 
-- Configured Virtual Lab for internal testing
+- First dabble in multi-threaded programming
 
-- Configured NetApp SAN
-
-- Created new adapter for BMC Patrol Agents
-
-    - Implemented State Pattern
-	
-    - Added significant error reporting and improved multithreaded design
-
-- Assisted releasing major new product version
-
-- Developed four updated  "integrations", a major source of income
-
-- Acquired VCP4, company was thus VMware Partner Certified
-
-- Redesigned template management UI in Tk
-
-    - New employees learned template system twice as fast
+- Redesigned a horrible Perk Tk UI to be probably at least 200% better
 
 
 ### BAE Systems
 
 Feb. 2007 - Aug. 2009
 
-Contact: ? : (703) 668-4000
+- Active Directory Administration
 
-- Designed flexible Active Directory Report Generator script
-
-- Created various monitoring scripts that reduced downtime
-
-- Wrote significant T-SQL procedures for analysis and document recovery
+- T-SQL hacking
 
 - Led small team defining requirements, designing, and prototyping
     a Software Defined Radio management expert system
 	
-- Modified PHP web application to support change management workflow
-
 ## Education		
 The Pennsylvania State University
 B.S. in Computer Science 2006 
-
-## Certification 
-VCP4 => 44371
